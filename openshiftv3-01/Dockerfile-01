@@ -1,0 +1,2 @@
+FROM ubuntu
+RUN echo "My Rajiv first Docker image"
